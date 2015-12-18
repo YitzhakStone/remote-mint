@@ -16,4 +16,7 @@ Help to configure Linux Mint to allow remote control everywhere through browser.
   <li>
     http://www.makeuseof.com/tag/connect-home-network-dyndns/
   </li>
+  <li>
+    http://xmodulo.com/access-vnc-remote-desktop-web-browser.html
+  </li>
 </ul>
